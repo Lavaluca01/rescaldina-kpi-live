@@ -1,0 +1,673 @@
+{
+  "store": "RESCALDINA",
+  "storeCode": "017",
+  "month": "2026-08",
+  "currency": "EUR",
+  "generatedAt": "2026-08-02T10:56:08+00:00",
+  "sourceUpdatedAt": "2026-08-02T12:23:33",
+  "budgets": [
+    {
+      "date": "2026-08-01",
+      "sales": 57303.2468444946,
+      "protection": 3782.8734727184014,
+      "mwService": 938.7205229125407,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 22.573029145270805,
+      "protectionAreas": {
+        "telefonia": 4584.259747559568,
+        "pc": 3438.194810669676,
+        "ge": 5730.324684449461
+      },
+      "findomestic": 8595.48702667419,
+      "mwServiceAreas": {
+        "screen": 563.2323137475244,
+        "rtu": 187.74410458250816,
+        "calibrazione": 187.74410458250816
+      }
+    },
+    {
+      "date": "2026-08-02",
+      "sales": 49962.820740942596,
+      "protection": 3258.9370673917233,
+      "mwService": 808.7056387436171,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 19.681471310444465,
+      "protectionAreas": {
+        "telefonia": 3997.0256592754076,
+        "pc": 2997.7692444565555,
+        "ge": 4996.28207409426
+      },
+      "findomestic": 7494.423111141389,
+      "mwServiceAreas": {
+        "screen": 485.2233832461702,
+        "rtu": 161.74112774872344,
+        "calibrazione": 161.74112774872344
+      }
+    },
+    {
+      "date": "2026-08-03",
+      "sales": 38367.56505330671,
+      "protection": 2532.834560785376,
+      "mwService": 628.5232113890463,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 15.11384104519679,
+      "protectionAreas": {
+        "telefonia": 3069.4052042645367,
+        "pc": 2302.0539031984026,
+        "ge": 3836.756505330671
+      },
+      "findomestic": 5755.134757996007,
+      "mwServiceAreas": {
+        "screen": 377.1139268334278,
+        "rtu": 125.70464227780927,
+        "calibrazione": 125.70464227780927
+      }
+    },
+    {
+      "date": "2026-08-04",
+      "sales": 36925.274353000816,
+      "protection": 2437.6217494600123,
+      "mwService": 604.8961404124716,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 14.545690516094863,
+      "protectionAreas": {
+        "telefonia": 2954.0219482400653,
+        "pc": 2215.5164611800487,
+        "ge": 3692.527435300082
+      },
+      "findomestic": 5538.7911529501225,
+      "mwServiceAreas": {
+        "screen": 362.93768424748293,
+        "rtu": 120.97922808249433,
+        "calibrazione": 120.97922808249433
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "sales": 36731.62196478202,
+      "protection": 2424.837788294436,
+      "mwService": 601.7237988586794,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 14.469406513982788,
+      "protectionAreas": {
+        "telefonia": 2938.5297571825613,
+        "pc": 2203.897317886921,
+        "ge": 3673.162196478202
+      },
+      "findomestic": 5509.743294717303,
+      "mwServiceAreas": {
+        "screen": 361.03427931520764,
+        "rtu": 120.34475977173588,
+        "calibrazione": 120.34475977173588
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "sales": 38294.15155080493,
+      "protection": 2527.9881688888227,
+      "mwService": 627.3205786369383,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 15.084921826428502,
+      "protectionAreas": {
+        "telefonia": 3063.5321240643943,
+        "pc": 2297.6490930482955,
+        "ge": 3829.4151550804927
+      },
+      "findomestic": 5744.122732620739,
+      "mwServiceAreas": {
+        "screen": 376.39234718216295,
+        "rtu": 125.46411572738766,
+        "calibrazione": 125.46411572738766
+      }
+    },
+    {
+      "date": "2026-08-07",
+      "sales": 39446.85108177851,
+      "protection": 2604.0836210290518,
+      "mwService": 646.2036745531784,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 15.538995924167113,
+      "protectionAreas": {
+        "telefonia": 3155.7480865422813,
+        "pc": 2366.8110649067107,
+        "ge": 3944.6851081778514
+      },
+      "findomestic": 5917.027662266777,
+      "mwServiceAreas": {
+        "screen": 387.722204731907,
+        "rtu": 129.2407349106357,
+        "calibrazione": 129.2407349106357
+      }
+    },
+    {
+      "date": "2026-08-08",
+      "sales": 48364.00548365038,
+      "protection": 3192.749511646313,
+      "mwService": 792.2811885504716,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 19.051662261426713,
+      "protectionAreas": {
+        "telefonia": 3869.1204386920303,
+        "pc": 2901.8403290190226,
+        "ge": 4836.400548365038
+      },
+      "findomestic": 7254.600822547556,
+      "mwServiceAreas": {
+        "screen": 475.3687131302829,
+        "rtu": 158.45623771009434,
+        "calibrazione": 158.45623771009434
+      }
+    },
+    {
+      "date": "2026-08-09",
+      "sales": 45049.368067769,
+      "protection": 2938.4460941437173,
+      "mwService": 729.1757638572856,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 17.74595253091632,
+      "protectionAreas": {
+        "telefonia": 3603.94944542152,
+        "pc": 2702.96208406614,
+        "ge": 4504.9368067769
+      },
+      "findomestic": 6757.40521016535,
+      "mwServiceAreas": {
+        "screen": 437.5054583143713,
+        "rtu": 145.83515277145713,
+        "calibrazione": 145.83515277145713
+      }
+    },
+    {
+      "date": "2026-08-10",
+      "sales": 43132.680090116795,
+      "protection": 2847.4035993621537,
+      "mwService": 706.5835574499174,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 16.990926315746627,
+      "protectionAreas": {
+        "telefonia": 3450.614407209344,
+        "pc": 2587.9608054070077,
+        "ge": 4313.26800901168
+      },
+      "findomestic": 6469.902013517519,
+      "mwServiceAreas": {
+        "screen": 423.95013446995046,
+        "rtu": 141.31671148998348,
+        "calibrazione": 141.31671148998348
+      }
+    },
+    {
+      "date": "2026-08-11",
+      "sales": 41496.59191699557,
+      "protection": 2739.397249112504,
+      "mwService": 679.7817681975353,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 16.34643463246871,
+      "protectionAreas": {
+        "telefonia": 3319.7273533596453,
+        "pc": 2489.795515019734,
+        "ge": 4149.659191699557
+      },
+      "findomestic": 6224.488787549335,
+      "mwServiceAreas": {
+        "screen": 407.86906091852114,
+        "rtu": 135.95635363950706,
+        "calibrazione": 135.95635363950706
+      }
+    },
+    {
+      "date": "2026-08-12",
+      "sales": 41678.63174033464,
+      "protection": 2751.414606882065,
+      "mwService": 682.763877023227,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 16.41814418583807,
+      "protectionAreas": {
+        "telefonia": 3334.290539226771,
+        "pc": 2500.7179044200784,
+        "ge": 4167.863174033464
+      },
+      "findomestic": 6251.794761050196,
+      "mwServiceAreas": {
+        "screen": 409.65832621393616,
+        "rtu": 136.55277540464542,
+        "calibrazione": 136.55277540464542
+      }
+    },
+    {
+      "date": "2026-08-13",
+      "sales": 43381.148855845386,
+      "protection": 2863.806263337278,
+      "mwService": 710.6538805561307,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 17.088803713613828,
+      "protectionAreas": {
+        "telefonia": 3470.4919084676308,
+        "pc": 2602.868931350723,
+        "ge": 4338.114885584539
+      },
+      "findomestic": 6507.172328376808,
+      "mwServiceAreas": {
+        "screen": 426.39232833367845,
+        "rtu": 142.13077611122614,
+        "calibrazione": 142.13077611122614
+      }
+    },
+    {
+      "date": "2026-08-14",
+      "sales": 44118.32676348338,
+      "protection": 2912.471058179448,
+      "mwService": 722.7300554509907,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 17.379194560741908,
+      "protectionAreas": {
+        "telefonia": 3529.4661410786707,
+        "pc": 2647.0996058090027,
+        "ge": 4411.832676348338
+      },
+      "findomestic": 6617.749014522507,
+      "mwServiceAreas": {
+        "screen": 433.6380332705944,
+        "rtu": 144.54601109019814,
+        "calibrazione": 144.54601109019814
+      }
+    },
+    {
+      "date": "2026-08-15",
+      "sales": 14516.486122183152,
+      "protection": 436.51954049024454,
+      "mwService": 108.32237828353286,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 5.718368196695671,
+      "protectionAreas": {
+        "telefonia": 1161.3188897746522,
+        "pc": 870.9891673309891,
+        "ge": 1451.6486122183153
+      },
+      "findomestic": 2177.4729183274726,
+      "mwServiceAreas": {
+        "screen": 64.99342697011971,
+        "rtu": 21.66447565670657,
+        "calibrazione": 21.66447565670657
+      }
+    },
+    {
+      "date": "2026-08-16",
+      "sales": 41201.654845294026,
+      "protection": 2687.4703674041434,
+      "mwService": 666.8961060409677,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 16.23025233072922,
+      "protectionAreas": {
+        "telefonia": 3296.132387623522,
+        "pc": 2472.0992907176415,
+        "ge": 4120.165484529402
+      },
+      "findomestic": 6180.248226794104,
+      "mwServiceAreas": {
+        "screen": 400.13766362458057,
+        "rtu": 133.37922120819354,
+        "calibrazione": 133.37922120819354
+      }
+    },
+    {
+      "date": "2026-08-17",
+      "sales": 45000.22115544285,
+      "protection": 2970.689310805448,
+      "mwService": 737.1769220835297,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 17.726592464158692,
+      "protectionAreas": {
+        "telefonia": 3600.017692435428,
+        "pc": 2700.013269326571,
+        "ge": 4500.022115544285
+      },
+      "findomestic": 6750.033173316428,
+      "mwServiceAreas": {
+        "screen": 442.3061532501178,
+        "rtu": 147.43538441670594,
+        "calibrazione": 147.43538441670594
+      }
+    },
+    {
+      "date": "2026-08-18",
+      "sales": 41870.6866806147,
+      "protection": 2764.093112532215,
+      "mwService": 685.9100497777458,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 16.493798917518454,
+      "protectionAreas": {
+        "telefonia": 3349.654934449176,
+        "pc": 2512.241200836882,
+        "ge": 4187.06866806147
+      },
+      "findomestic": 6280.603002092205,
+      "mwServiceAreas": {
+        "screen": 411.5460298666475,
+        "rtu": 137.18200995554918,
+        "calibrazione": 137.18200995554918
+      }
+    },
+    {
+      "date": "2026-08-19",
+      "sales": 45132.41681250323,
+      "protection": 2979.4162062579762,
+      "mwService": 739.3425022758573,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 17.77866728686115,
+      "protectionAreas": {
+        "telefonia": 3610.5933450002585,
+        "pc": 2707.9450087501937,
+        "ge": 4513.241681250323
+      },
+      "findomestic": 6769.862521875484,
+      "mwServiceAreas": {
+        "screen": 443.6055013655144,
+        "rtu": 147.86850045517147,
+        "calibrazione": 147.86850045517147
+      }
+    },
+    {
+      "date": "2026-08-20",
+      "sales": 45050.72952463295,
+      "protection": 2974.0236204734147,
+      "mwService": 738.0043314424838,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 17.74648883919137,
+      "protectionAreas": {
+        "telefonia": 3604.0583619706363,
+        "pc": 2703.043771477977,
+        "ge": 4505.072952463295
+      },
+      "findomestic": 6757.609428694943,
+      "mwServiceAreas": {
+        "screen": 442.80259886549027,
+        "rtu": 147.60086628849677,
+        "calibrazione": 147.60086628849677
+      }
+    },
+    {
+      "date": "2026-08-21",
+      "sales": 45324.30844669235,
+      "protection": 2992.0839312575804,
+      "mwService": 742.4859998106019,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 17.854257688623886,
+      "protectionAreas": {
+        "telefonia": 3625.9446757353876,
+        "pc": 2719.458506801541,
+        "ge": 4532.430844669235
+      },
+      "findomestic": 6798.646267003852,
+      "mwServiceAreas": {
+        "screen": 445.49159988636114,
+        "rtu": 148.4971999621204,
+        "calibrazione": 148.4971999621204
+      }
+    },
+    {
+      "date": "2026-08-22",
+      "sales": 54612.19579276998,
+      "protection": 3562.2029853664053,
+      "mwService": 883.9611140207668,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 21.51296401515981,
+      "protectionAreas": {
+        "telefonia": 4368.975663421598,
+        "pc": 3276.7317475661985,
+        "ge": 5461.219579276998
+      },
+      "findomestic": 8191.829368915496,
+      "mwServiceAreas": {
+        "screen": 530.37666841246,
+        "rtu": 176.79222280415337,
+        "calibrazione": 176.79222280415337
+      }
+    },
+    {
+      "date": "2026-08-23",
+      "sales": 53197.47147040588,
+      "protection": 3511.830737745122,
+      "mwService": 871.4612345063322,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 20.95567249819027,
+      "protectionAreas": {
+        "telefonia": 4255.79771763247,
+        "pc": 3191.8482882243525,
+        "ge": 5319.747147040588
+      },
+      "findomestic": 7979.620720560882,
+      "mwServiceAreas": {
+        "screen": 522.8767407037993,
+        "rtu": 174.29224690126645,
+        "calibrazione": 174.29224690126645
+      }
+    },
+    {
+      "date": "2026-08-24",
+      "sales": 43023.74019463941,
+      "protection": 2840.211932861294,
+      "mwService": 704.7989445129564,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 16.948012457089245,
+      "protectionAreas": {
+        "telefonia": 3441.899215571153,
+        "pc": 2581.4244116783643,
+        "ge": 4302.374019463941
+      },
+      "findomestic": 6453.561029195911,
+      "mwServiceAreas": {
+        "screen": 422.87936670777384,
+        "rtu": 140.95978890259127,
+        "calibrazione": 140.95978890259127
+      }
+    },
+    {
+      "date": "2026-08-25",
+      "sales": 40838.026473501,
+      "protection": 2695.922055586294,
+      "mwService": 668.9933935149104,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 16.08701099124969,
+      "protectionAreas": {
+        "telefonia": 3267.04211788008,
+        "pc": 2450.2815884100596,
+        "ge": 4083.8026473501
+      },
+      "findomestic": 6125.703971025149,
+      "mwServiceAreas": {
+        "screen": 401.39603610894625,
+        "rtu": 133.79867870298207,
+        "calibrazione": 133.79867870298207
+      }
+    },
+    {
+      "date": "2026-08-26",
+      "sales": 43053.67037683883,
+      "protection": 2842.187773647121,
+      "mwService": 705.2892496497896,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 16.959802624528525,
+      "protectionAreas": {
+        "telefonia": 3444.293630147107,
+        "pc": 2583.22022261033,
+        "ge": 4305.367037683884
+      },
+      "findomestic": 6458.0505565258245,
+      "mwServiceAreas": {
+        "screen": 423.17354978987373,
+        "rtu": 141.0578499299579,
+        "calibrazione": 141.0578499299579
+      }
+    },
+    {
+      "date": "2026-08-27",
+      "sales": 43408.48844435177,
+      "protection": 2865.611086097083,
+      "mwService": 711.1017475485287,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 17.099573388320902,
+      "protectionAreas": {
+        "telefonia": 3472.679075548142,
+        "pc": 2604.509306661106,
+        "ge": 4340.848844435178
+      },
+      "findomestic": 6511.273266652765,
+      "mwServiceAreas": {
+        "screen": 426.6610485291172,
+        "rtu": 142.22034950970576,
+        "calibrazione": 142.22034950970576
+      }
+    },
+    {
+      "date": "2026-08-28",
+      "sales": 47824.58837370918,
+      "protection": 3161.381724356145,
+      "mwService": 784.4972682316998,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 18.839173810690166,
+      "protectionAreas": {
+        "telefonia": 3825.9670698967343,
+        "pc": 2869.4753024225506,
+        "ge": 4782.458837370918
+      },
+      "findomestic": 7173.688256056376,
+      "mwServiceAreas": {
+        "screen": 470.69836093901984,
+        "rtu": 156.89945364633996,
+        "calibrazione": 156.89945364633996
+      }
+    },
+    {
+      "date": "2026-08-29",
+      "sales": 62926.27530347577,
+      "protection": 4154.077660354481,
+      "mwService": 1030.8348882589084,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 24.788065679478358,
+      "protectionAreas": {
+        "telefonia": 5034.102024278061,
+        "pc": 3775.576518208546,
+        "ge": 6292.627530347578
+      },
+      "findomestic": 9438.941295521365,
+      "mwServiceAreas": {
+        "screen": 618.5009329553451,
+        "rtu": 206.1669776517817,
+        "calibrazione": 206.1669776517817
+      }
+    },
+    {
+      "date": "2026-08-30",
+      "sales": 54681.4169149641,
+      "protection": 3566.7180883493756,
+      "mwService": 885.081537387751,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 21.540231761662845,
+      "protectionAreas": {
+        "telefonia": 4374.513353197129,
+        "pc": 3280.885014897846,
+        "ge": 5468.14169149641
+      },
+      "findomestic": 8202.212537244615,
+      "mwServiceAreas": {
+        "screen": 531.0489224326506,
+        "rtu": 177.0163074775502,
+        "calibrazione": 177.0163074775502
+      }
+    },
+    {
+      "date": "2026-08-31",
+      "sales": 36891.63102793418,
+      "protection": 2435.4007855716304,
+      "mwService": 604.345007947242,
+      "mcafeePieces": 7.7608440000000005,
+      "officePieces": 1.8580645161290323,
+      "under300Pieces": 14.532437658724776,
+      "protectionAreas": {
+        "telefonia": 2951.330482234734,
+        "pc": 2213.4978616760504,
+        "ge": 3689.163102793418
+      },
+      "findomestic": 5533.744654190126,
+      "mwServiceAreas": {
+        "screen": 362.60700476834523,
+        "rtu": 120.86900158944842,
+        "calibrazione": 120.86900158944842
+      }
+    }
+  ],
+  "actuals": {
+    "2026-08-02": {
+      "sales": 13721.69999999999,
+      "protection": 999.94,
+      "mwService": 58.60000000000001,
+      "screenPieces": 2.0,
+      "officePieces": 0.0,
+      "mcafeePieces": 1.0,
+      "calibrazionePieces": 0.0,
+      "rtuPcPieces": 0.0,
+      "rtuSmartphonePieces": 2.0
+    }
+  },
+  "lastAvailableSnapshot": {
+    "sales": 13721.69999999999,
+    "protection": 999.94,
+    "mwService": 58.60000000000001,
+    "screenPieces": 2.0,
+    "officePieces": 0.0,
+    "mcafeePieces": 1.0,
+    "calibrazionePieces": 0.0,
+    "rtuPcPieces": 0.0,
+    "rtuSmartphonePieces": 2.0
+  },
+  "goldPlus": {
+    "monthlyTargetValue": 19079.288094541622,
+    "monthlyTargetPieces": 478.1776464797399,
+    "unitValue": 39.9
+  },
+  "rules": {
+    "protection": {
+      "telefonia": 0.08,
+      "pc": 0.06,
+      "ge": 0.1
+    },
+    "mwService": {
+      "screen": 0.6,
+      "rtu": 0.2,
+      "calibrazione": 0.2
+    },
+    "findomestic": 0.15,
+    "goldPlus": 0.014
+  }
+}
